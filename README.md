@@ -1,4 +1,4 @@
-# PyBer ride-sharing servises analysis
+# PyBer Aalysis
 
 ## Overview of the analysis
 On the first week of a new job as data analyst at PyBer, I was given an assignment to perform an exploratory analysis on data in some very large data in CSV files. PyBer is a Python based ride-sharing app company that values $2.3 billion. We wrote a Python script using Jupiter Notebook, Pandas library and Matplotlib. In this analysis we showcased the relationship between types on city, number of drivers and share riding fares, as well as the summary of total fares, riders and drivers by type of city.
